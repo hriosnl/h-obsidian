@@ -1,0 +1,1 @@
+aesthetics without functionality is fine, but if it confuses the viewer it is [[design inspiration from everyday things|bad design ]] like that faucet

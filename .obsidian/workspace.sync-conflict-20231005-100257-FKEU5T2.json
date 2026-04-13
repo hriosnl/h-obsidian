@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "56d78c8ad155a481",
+    "type": "split",
+    "children": [
+      {
+        "id": "19515045d0f24867",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6a6070c625cea93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "link.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06bf2792a0c0a5aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "206792f756f2c1e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1d1b833ee9c45d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3100d522533186c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#tag1",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "53e43caec276adf0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d61212adaece4bd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e59a6bf19536b283",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62a0b813fc66d149",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "link.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "fd19be90ef23a74a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "link.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d310e2b03330564c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "caebd231df18b8af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "link.md"
+              }
+            }
+          },
+          {
+            "id": "903d0a53a9dead18",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "b6a6070c625cea93",
+  "lastOpenFiles": [
+    "First Note.md",
+    "link.md",
+    "Journal/October 4, 2023.md",
+    "Journal/2023-10-04.md",
+    "Templates/Journal Entry.md",
+    "Templates",
+    "Untitled.md",
+    "A link that goes nowhere.md",
+    "Templates",
+    "pininfo.md",
+    "Media/4me2.jpg",
+    "Media/4me2 1.jpg",
+    "Journal",
+    "2023-10-04.md",
+    "Canvas Test.canvas",
+    "Media",
+    "Cee.md"
+  ]
+}

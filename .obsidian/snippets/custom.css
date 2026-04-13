@@ -1,0 +1,20 @@
+.x-cursor {
+  width: 2.5em;
+  color: red;
+}
+
+blockquote {
+  margin-bottom: 3rem;
+}
+cite {
+  text-align: end;
+  display: block;
+  font-style: normal;
+}
+cite::before {
+  content: "- ";
+}
+
+ul.has-list-bullet {
+  margin-top: -25px;
+}

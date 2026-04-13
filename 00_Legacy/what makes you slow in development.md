@@ -1,0 +1,3 @@
+- back and forth looking with code and tutorials or documentation
+	- master fundamentals
+- **not deciding what specific task to do**

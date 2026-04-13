@@ -1,0 +1,15 @@
+{
+  "accentColor": "#c97eed",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "custom"
+  ],
+  "theme": "system",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "PT Mono",
+  "baseFontSize": 15,
+  "showViewHeader": true,
+  "nativeMenus": true,
+  "translucency": false,
+  "showRibbon": false
+}

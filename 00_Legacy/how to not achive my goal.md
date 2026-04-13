@@ -1,0 +1,6 @@
+- disregard data and analytics in decision-making
+	- (yeah but a bit clueless how to)
+- decide slow
+- build slow
+- validate the idea slow
+- do not use AI to its full capacity

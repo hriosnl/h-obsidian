@@ -1,0 +1,2 @@
+- and then what? (2nd order thinking)
+- (intuitive heuristics)

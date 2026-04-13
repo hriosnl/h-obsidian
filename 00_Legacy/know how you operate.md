@@ -1,0 +1,4 @@
+- You have your own interests, your own ways of achieving something.
+- You have you own beliefs.
+- Your [[body]] and you mind works different to other people.
+- **You usually procrastinate even on the smallest task** e.g. instead of creating a note you thought of creating, you changed the titles of other notes instead (true story)

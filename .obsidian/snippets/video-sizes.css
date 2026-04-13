@@ -1,0 +1,17 @@
+[alt~="w200"] video {
+  width: 200px;
+  display: inline;
+}
+
+[alt~="w300"] video {
+  width: 300px;
+}
+
+[alt~="w400"] video {
+  width: 400px;
+}
+
+[alt~="w500"] video {
+  width: 500px;
+}
+

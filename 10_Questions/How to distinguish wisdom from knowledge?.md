@@ -1,0 +1,1 @@
+Wisdom does not aim for an answer; it directs one to achieve the best answer.

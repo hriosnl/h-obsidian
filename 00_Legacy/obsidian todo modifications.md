@@ -1,0 +1,6 @@
+- [ ] make checkbox square
+- [ ] stylize header 1, 2, 3, 4
+	- [_] 1, 2, 4
+- [_] remove line in h2
+- [ ] use firacode for glyphs beauty
+- [ ] change bullet points to just dash

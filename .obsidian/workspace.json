@@ -1,0 +1,551 @@
+{
+  "main": {
+    "id": "4a3646754f4ac10c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f55823586e4924d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09ea862ea03dab6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Conversation with GPT-5.2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "A Conversation with GPT-5.2"
+            }
+          },
+          {
+            "id": "b6be952e5eb2f70b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Email Evolution - Intent Negotiation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Email Evolution - Intent Negotiation"
+            }
+          },
+          {
+            "id": "1a3ef1013e630254",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agent Swarm.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Agent Swarm"
+            }
+          },
+          {
+            "id": "6aa835650cc8755d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agent Swarm.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Agent Swarm"
+            }
+          },
+          {
+            "id": "cbb01916d89a5904",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Agent Swarm Diagram.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Agent Swarm Diagram"
+            }
+          },
+          {
+            "id": "b93ce608556b56e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Master Artificial Intelligence.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Master Artificial Intelligence"
+            }
+          },
+          {
+            "id": "ef4a20622e238ec0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Possibilities with Self-Improving Software.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "New Possibilities with Self-Improving Software"
+            }
+          },
+          {
+            "id": "f7da1cf32cbc1f66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Legacy/quotes dump.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "quotes dump"
+            }
+          },
+          {
+            "id": "8b44e904759d7e5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apple Music Stint or Own.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Apple Music Stint or Own"
+            }
+          },
+          {
+            "id": "6446b4710c6f91b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Various Interesting Ideas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Various Interesting Ideas"
+            }
+          },
+          {
+            "id": "404c6789702de15e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Thoughts.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "My Thoughts"
+            }
+          },
+          {
+            "id": "c15b4916dce637ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenClaw Release Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "OpenClaw Release Notes"
+            }
+          },
+          {
+            "id": "8e5e611f79e3cc9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Income Ideas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Income Ideas"
+            }
+          },
+          {
+            "id": "8105a62436f4f9fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unix Commands Forms in the AI Era.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Unix Commands Forms in the AI Era"
+            }
+          },
+          {
+            "id": "38623c3415f8f2e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Email Evolution - Intent Negotiation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Email Evolution - Intent Negotiation"
+            }
+          },
+          {
+            "id": "4355c98f2397a45e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cache Misses.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Cache Misses"
+            }
+          },
+          {
+            "id": "d977a8a64e50a702",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self-Observation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Self-Observation"
+            }
+          },
+          {
+            "id": "223d87be47ce0755",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apple Music Stint or Own.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Apple Music Stint or Own"
+            }
+          },
+          {
+            "id": "18a487bcea8b5d6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Legacy/Johann Wolfgang von Goethe.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Johann Wolfgang von Goethe"
+            }
+          },
+          {
+            "id": "dea22e4dede4ee36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Legacy/design process - sample.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "design process - sample"
+            }
+          },
+          {
+            "id": "8cc5048ee3d4400a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ISS 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "ISS 2"
+            }
+          },
+          {
+            "id": "a3bb000fdd90634b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apple Music Stint or Own.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Apple Music Stint or Own"
+            }
+          },
+          {
+            "id": "992622c3af95dd49",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
+          }
+        ],
+        "currentTab": 22
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba718812f75d5a4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b124adeb85d3e467",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0721f22ad2766e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8c245b2452b2e576",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tinker",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f3dc945159376d73",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286.5
+  },
+  "right": {
+    "id": "f18fcc233d1a2e0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "31d44e1be9482795",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d63cfeec9151c3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CC Foundational Setup.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for CC Foundational Setup"
+            }
+          },
+          {
+            "id": "a36407fd6618b2fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Composition in Coding.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Composition in Coding"
+            }
+          },
+          {
+            "id": "99386a9534069454",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0324d346f5cefa04",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Composition in Coding.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Composition in Coding"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "992622c3af95dd49",
+  "lastOpenFiles": [
+    "00_Legacy/abstract, the art of design.md",
+    "00_Legacy/design quotes dump.md",
+    "00_Legacy/thoughts on design book.md",
+    "Apple Music Stint or Own.md",
+    "90_Definitions/Architecture Decision Records (ADR).md",
+    "Untitled 4.md",
+    "Self-Observation.md",
+    "00_Legacy/Johann Wolfgang von Goethe.md",
+    "Agent Swarm Diagram.md",
+    "Untitled 3.md",
+    "Agent Swarm.md",
+    "Evolving Clarity.md",
+    "ISS 2.md",
+    "Untitled 2.md",
+    "Email Evolution - Intent Negotiation.md",
+    "A Conversation with GPT-5.2.md",
+    "00_Legacy/design process - sample.md",
+    "ADR Example.md",
+    "CC-Related Ideas.md",
+    "90_Definitions/Legacy Note.md",
+    "90_Definitions/Definition Note.md",
+    "90_Definitions/Canonical Note.md",
+    "90_Definitions/Active Note.md",
+    "10_Questions/What top 0.1% judgment look like?.md",
+    "10_Questions/How to actually measure clarity?.md",
+    "10_Questions/How to distinguish wisdom from knowledge?.md",
+    "05_Archive",
+    "On Writing.pdf",
+    "youtube-focus/icons/icon_default.png",
+    "youtube-focus/icons/icon_active.png",
+    "youtube-focus/content.js",
+    "youtube-focus/manifest.json",
+    "youtube-focus/icons",
+    "youtube-focus/focus.css",
+    "youtube-focus/background.js",
+    "youtube-focus",
+    "100_Canonical/Metadata",
+    "90_Definitions",
+    "00_Legacy/General System/how to do anything.excalidraw.svg",
+    "00_Legacy/Attachments/what dogs nose see somehow.webp",
+    "00_Legacy/Attachments/wagner battlefiend.webp",
+    "00_Legacy/Attachments/vpadaph-favicon.png",
+    "00_Legacy/Attachments/umami synergy.png",
+    "00_Legacy/Attachments/train moments.png",
+    "00_Legacy/Attachments/tiny gains.jpeg",
+    "00_Legacy/Attachments/story appeal 3.png",
+    "00_Legacy/Business With Aicee/instagram.canvas",
+    "00_Legacy/Business With Aicee/Vpada PH.canvas",
+    "New Folder With Items/Business With Aicee/instagram.canvas",
+    "New Folder With Items/Business With Aicee/Vpada PH.canvas",
+    "Business With Aicee/instagram.canvas",
+    "Business With Aicee/Vpada PH.canvas",
+    "Canvas/Untitled.canvas"
+  ]
+}

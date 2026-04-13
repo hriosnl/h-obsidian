@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "d51e0157ae62e9e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "deb941265d3eb068",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dd5d030c71b925c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project - Design Observations.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project - Design Observations"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a91fa2cf84ee2f8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7a05399a833e1f5e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "8784a5a62dc78dbf",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "b691049e99f30d0c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "954bee8d075e8b6c",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a7f1b096b49adc63",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7c1c2a17d881d576",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "on writing.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "35b069a9037c6e04",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Project - Luminal.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "389a5e78d9debca8",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Project - Luminal.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "31d75b3ff91d72b3",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6dd5d030c71b925c",
+  "lastOpenFiles": [
+    "business ideas 💡.md",
+    "on writing.md",
+    "Project - Luminal.md",
+    "Project - Design Observations.md",
+    "1% Better Daily.md",
+    "TIL (Today I Learned).md",
+    "marketing ideas💡.md",
+    "A One Person Billion Dollar Company.md",
+    "General System/A process for generating business idea ready for experimentation.md",
+    "ai business ideas scoring system.md",
+    "how to not achive my goal.md",
+    "alter ego.md",
+    "ai-centered habits.md",
+    "ai era new perspectives.md",
+    "self-observations.md",
+    "rules to follow.md",
+    "decisions.md",
+    "Design System/design-process-v1.excalidraw.md",
+    "Design System/spawn-a-ui-element.excalidraw.md",
+    "General System/business generation strategies.md",
+    "Project - Design Guide.md",
+    "questions about business ideas.md",
+    "Project - The Unreason series.md",
+    "invert, always invert.md",
+    "general ideas dump 💡.md",
+    "design symbolisms.md",
+    "Attachments/custom-prop.png",
+    "Attachments/IMG_1138.jpeg",
+    "Attachments/Recording 16.m4a",
+    "Attachments/IMG_1268.jpeg",
+    "General System/how to do anything.excalidraw.svg",
+    "Design System",
+    "Attachments/IMG_1221.jpeg",
+    "Attachments/ai-scientist.png",
+    "Attachments/ScreenRecording_08-29-2024 09-44-25_1.mp4",
+    "Attachments/landing-page-bg-cool.mov",
+    "Attachments/Screenshot_20231114-181146_YouTube.jpg",
+    "Attachments/Screenshot_20231114-181149_YouTube.jpg",
+    "Attachments/brain-waves.png",
+    "Attachments/visual canon.mov",
+    "Attachments/Screenshot_20231025_223131.jpg",
+    "Business With Aicee/Vpada PH.canvas",
+    "Business With Aicee/instagram.canvas",
+    "Attachments/hachi-pupin-at-Aicee-home-rooftop-daycare.mp4",
+    "Journals",
+    "Dictionary",
+    "Business With Aicee",
+    "Attachments",
+    "canvas/Another to be deleted.canvas",
+    "canvas/Untitled.canvas",
+    "Canvas Test.canvas"
+  ]
+}

@@ -1,0 +1,3 @@
+Abstract rules, if well-formed, transmit power without distortion. The lens that survives is one that minimizes self-interest while maximizing constraint. That is why ideas outlast empires. They do not compete with the force they channel.
+
+This is why it feels cold. Warm systems rely on narrative, forgiveness, myth, and elasticity. AI strips those away. The only thing that can hold its force is something that does not need belief to function.

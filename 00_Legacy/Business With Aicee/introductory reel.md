@@ -1,0 +1,10 @@
+- [ ] ask ChatGPT=🤖 for an IG Reels idea
+	- [ ] catchy
+	- [ ] aligned with Vpada PH voice
+	- [ ] easy to make using available resources
+		- [ ] mobile phone's camera
+		- [ ] no model except us that don't want to show faces
+		- [ ] no product yet
+	- [ ] can be easily re-created
+- [ ] ask 🤖 how to track the *effectiveness* of the created IG Reels
+- [ ] ask 🤖 how to A/B test

@@ -1,0 +1,2 @@
+- manually contact people in IG etc
+- but we must have contents already for them to see when accounts are visited 

@@ -1,0 +1,12 @@
+- [ ] A list of what she cannot modify -> *implement* rather than instruct
+- [ ] A list of what needs explicit approval - best if CC learns this herself
+- [ ] ADRs are irreversible once implemented or approved
+- [ ] Memories are durable, accumulative, and referenceable (remove git destructive command?)
+- [ ] Feedback loops:
+	- [ ] Mechanism for testing CC's output to reality?
+	- [ ] Mechanism to capture mismatch (instruction vs output) -> alignment
+	- [ ] Mechanism to *convert* errors into memory updates or ADRs
+- [ ] Alignment is externally verifiable 
+- [ ] Backup strategy is documented
+- [ ] 3-2-1-1-0 (0-just read it for now) is implemented for the memories and ADRs
+

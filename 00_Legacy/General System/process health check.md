@@ -1,0 +1,7 @@
+- [?] are you in the present?
+- [?] are you tired?
+- [?] are you anxious?
+- [?] are you sleepy?
+- [?] are you calm?
+- [?] are you disappointed?
+- [?] is something running in your head, in loop?

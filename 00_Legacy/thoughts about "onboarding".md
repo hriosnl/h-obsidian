@@ -1,0 +1,1 @@
+onboarding of any application is like terms and agreement, it is not read

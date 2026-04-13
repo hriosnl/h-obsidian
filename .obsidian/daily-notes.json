@@ -1,0 +1,6 @@
+{
+  "folder": "Journals",
+  "template": "Templates/Journal Entry",
+  "autorun": false,
+  "format": "LL"
+}

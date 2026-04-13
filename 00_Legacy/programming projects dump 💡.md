@@ -1,0 +1,7 @@
+- auto-feedback in vscode every time interval
+- llm in bookmarks, “talk to” it
+- chrome extension -> send highlighted to llm in fly.io (free llm provider)
+- JavaScript fundamentals interactive animation
+- fork GPT Search for Gemini
+- countdown app requested by Ceecee
+- ai avatar + voice as language tutor (native + language to learn)
